@@ -22,6 +22,7 @@ public class AppiumTest {
 	public void chargeTest()
 	{
 		System.out.println("chargeTest");
+		System.out.println("elementsUIDev");
 
 	} 
 
