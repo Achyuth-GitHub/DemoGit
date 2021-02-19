@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-06T23:10:29 IST" name="Suite" finished-at="2021-02-06T23:10:29 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2021-02-06T23:10:29 IST" name="Test" finished-at="2021-02-06T23:10:29 IST" duration-ms="43">
+      <class name="com.mycompany.app.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:com.mycompany.app.SeleniumTest@4470f8a6]" started-at="2021-02-06T23:10:29 IST" name="BrowserAutomation" finished-at="2021-02-06T23:10:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:com.mycompany.app.SeleniumTest@4470f8a6]" started-at="2021-02-06T23:10:29 IST" name="elementsUI" finished-at="2021-02-06T23:10:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+      <class name="com.mycompany.app.AppiumTest">
+        <test-method signature="chargeTest()[pri:0, instance:com.mycompany.app.AppiumTest@484970b0]" started-at="2021-02-06T23:10:29 IST" name="chargeTest" finished-at="2021-02-06T23:10:29 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chargeTest -->
+        <test-method signature="mobileTest()[pri:0, instance:com.mycompany.app.AppiumTest@484970b0]" started-at="2021-02-06T23:10:29 IST" name="mobileTest" finished-at="2021-02-06T23:10:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+      </class> <!-- com.mycompany.app.AppiumTest -->
+      <class name="com.mycompany.app.RESTAPITest">
+        <test-method signature="postJira()[pri:0, instance:com.mycompany.app.RESTAPITest@7c83dc97]" started-at="2021-02-06T23:10:29 IST" name="postJira" finished-at="2021-02-06T23:10:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method signature="deleteTwitter()[pri:0, instance:com.mycompany.app.RESTAPITest@7c83dc97]" started-at="2021-02-06T23:10:29 IST" name="deleteTwitter" finished-at="2021-02-06T23:10:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- com.mycompany.app.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
